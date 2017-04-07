@@ -1,6 +1,7 @@
 {
   "name": "monk",
-  "version": "3.1.1",
+  "description": "The wise MongoDB API",
+  "version": "4.0.0",
   "main": "lib/monk.js",
   "tags": [
     "mongodb",
